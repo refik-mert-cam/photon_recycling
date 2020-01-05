@@ -20,4 +20,5 @@ The algorithm of the simulation is as follows:
 Here, you see my reproduced simulation results and the original simulation results in the Balenzategui's paper:
 
 ![My Reproduced Simulation Results](https://github.com/refik-mert-cam/photon_recycling/blob/master/my_reproduction.PNG)
-![Original Simulation Results in Balenzategui's Paper](https://github.com/refik-mert-cam/photon_recycling/blob/master/photonrecycling.PNG)
+
+![Original Simulation Results in Balenzategui's Paper](https://github.com/refik-mert-cam/photon_recycling/blob/master/photon%20recycling.PNG)
