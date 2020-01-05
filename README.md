@@ -19,3 +19,4 @@ The algorithm of the simulation is as follows:
 
 Here, you see my reproduced simulation results and the original simulation results in the Balenzategui's paper:
 
+![My Reproduced Simulation Results](link-to-image)
